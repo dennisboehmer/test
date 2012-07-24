@@ -1,3 +1,5 @@
 Een lokaal aangemaakt document om wat github functionaliteiten te testen.
 
 Bestand gewijzigd.
+
+Nog een wijziging.
